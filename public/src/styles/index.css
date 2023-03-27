@@ -1,0 +1,12 @@
+@import url("./homepage.css");
+
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Almarai", sans-serif;
+}
+
+.container {
+  margin: auto;
+  max-width: 1280px;
+}
